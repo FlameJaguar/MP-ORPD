@@ -8,4 +8,5 @@ Walter M. Villa-Acevedo, Universidad de Antioquia, walter.villa@udea.edu.co
 Jesús M. López-Lezama, Universidad de Antioquia, jmaria.lopez@udea.edu.co
 
 # Files
-case118_spring_wday_MP_ORPD_InputData.gdx is the input data
+case57_spring_wday_MP_ORPD_InputData.gdx is the input data of IEEE 57-bus test systems multiperiod;
+case118_spring_wday_MP_ORPD_InputData.gdx is the input data of IEEE 118-bus test systems multiperiod;
